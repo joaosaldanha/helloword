@@ -1,3 +1,3 @@
 # helloword
-meu primeiro codigo no github
+meu primeiro projeto JS
 By: João Saldanha.
